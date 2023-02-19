@@ -140,3 +140,4 @@ game.start_game()
 
 # rand_ghost_placement(3)
 # print(dors_ghosts)
+print("Nastya")
